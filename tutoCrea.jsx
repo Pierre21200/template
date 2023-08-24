@@ -2,7 +2,7 @@
 // Installation générale de npx create react app 
 // Installation générale de nodemon
 
-// Frontend
+// Frontend prout
 
 // npx create-react-app frontend
 // cd frontend
